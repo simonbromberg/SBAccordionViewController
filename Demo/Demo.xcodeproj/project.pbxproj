@@ -37,7 +37,7 @@
 		D40E5FA31B76ED8600A78332 /* DemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D40E5FA81B76ED8600A78332 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D40E5FA91B76ED8600A78332 /* DemoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoTests.swift; sourceTree = "<group>"; };
-		D40E5FB31B76EE4300A78332 /* SBAccordionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SBAccordionViewController.swift; path = ../../../SBAccordionViewController/SBAccordionViewController.swift; sourceTree = "<group>"; };
+		D40E5FB31B76EE4300A78332 /* SBAccordionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SBAccordionViewController.swift; path = ../../SBAccordionViewController/SBAccordionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -413,6 +413,7 @@
 				D40E5FAF1B76ED8600A78332 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D40E5FB01B76ED8600A78332 /* Build configuration list for PBXNativeTarget "DemoTests" */ = {
 			isa = XCConfigurationList;
@@ -421,6 +422,7 @@
 				D40E5FB21B76ED8600A78332 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
