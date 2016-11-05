@@ -2,7 +2,7 @@
 //  DemoTests.swift
 //  DemoTests
 //
-//  Created by shim on 2015-08-08.
+//  Created by Simon Bromberg on 2015-08-08.
 //  Copyright (c) 2015 Bupkis. All rights reserved.
 //
 
@@ -28,7 +28,7 @@ class DemoTests: XCTestCase {
     
     func testPerformanceExample() {
         // This is an example of a performance test case.
-        self.measureBlock() {
+        self.measure() {
             // Put the code you want to measure the time of here.
         }
     }
